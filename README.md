@@ -14,7 +14,7 @@ The browser then instantiates the exact same `.wasm` module, and uses the state 
 
 This effectively resumes execution.
 
-If the browser makes another `increment()` call, it will continue incremented from where the server left off.
+If the browser makes another `increment()` call, it will continue incrementing from where the server left off.
 
 ## Usage
 
